@@ -1,0 +1,11 @@
+Date,Product,Sales,Price,Location
+01-01-2024,Product A,200,50,New York
+02-01-2024,Product B,150,30,California
+03-01-2024,Product A,180,50,Texas
+04-01-2024,Product C,220,80,New York
+05-01-2024,Product B,130,30,California
+06-01-2024,Product A,250,50,Texas
+07-01-2024,Product C,300,80,New York
+08-01-2024,Product B,170,30,California
+09-01-2024,Product A,200,50,Texas
+10-01-2024,Product C,220,80,New York
